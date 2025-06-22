@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/myBlog/public/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/myBlog/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21/06/2025</title>
+      <link>/myBlog/public/posts/2025-06-21/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/myBlog/public/posts/2025-06-21/</guid>
+      <description>&lt;p&gt;Does this change how the date looks?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;One reason I enjoy this time of year is the way bird song gathers pace. It is a long lead in before it might be called the dawn chorus, although when exactly that starts is a moot point. In my mind it is when Blackbirds start singing in numbers. Great tits are one of the earliest to start - often within the first two weeks of the year I will hear the joyous monotony of their song.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AnotherPost</title>
+      <link>/myBlog/public/posts/anotherpost/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/myBlog/public/posts/anotherpost/</guid>
+      <description>&lt;p&gt;Another post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/myBlog/public/posts/high_energy_pup/</link>
+      <pubDate>Wed, 12 Oct 2022 05:23:38 +0000</pubDate>
+      <guid>/myBlog/public/posts/high_energy_pup/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;d forgotten that when you have a puppy, there is a type of person you run into who is compelled to give out unsolicited advice and opinion, much like when you have a baby.&lt;/p&gt;
+&lt;p&gt;What has surprised me is the number of those people who, upon seeing you have a Cocker Spaniel, intone in a sombre and knowing manner, that we do know don&amp;rsquo;t we, that our puppy is going to be full of energy for much of her life, and thus will need a lot of exercise and input.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/myBlog/public/posts/hugodraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/myBlog/public/posts/hugodraft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2025-06-19</title>
+      <link>/myBlog/public/posts/2025-06-19-now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/myBlog/public/posts/2025-06-19-now/</guid>
+      <description>&lt;p&gt;What a thing&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
