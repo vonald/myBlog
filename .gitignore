@@ -1,0 +1,17 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/data/cache/
+
+# Hugo's temporary files
+/.hugo_build.lock
+
+# Editor-specific files (examples, add what you use)
+.DS_Store
+.vscode/
+*.swp
+*.bak
+*~
+
+# Files I don't want shown
+hugoDraft.md
